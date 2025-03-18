@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['__main__.py'],
+    ['installer.py'],
     pathex=[],
     binaries=[],
     datas=[('mod', 'mod'), ('rpatool.py', '.'), ('icon.ico', '.'), ('config.json', '.')],
