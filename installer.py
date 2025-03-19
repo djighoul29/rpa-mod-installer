@@ -20,7 +20,6 @@ config = load_config()
 
 game_exe_name = config["game_exe_name"]
 archive_relative_path = config["archive_relative_path"]
-mod_folder_path = config["mod_folder_path"]
 icon_file = config["icon_file"]
 app_title = config["app_title"]
 

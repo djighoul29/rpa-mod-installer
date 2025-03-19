@@ -1,8 +1,7 @@
 {
     "game_exe_name": "GameExecutable.exe",
     "archive_relative_path": "game/archive.rpa",
-    "mod_folder_path": "mod/",
     "icon_file": "icon.ico",
     "app_title": "Mod Installer"
-  }
+}
   
