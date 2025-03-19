@@ -23,7 +23,7 @@ For example, if you have a modified `screens.rpyc`, place it inside **`mod/`**.
 ### **3. Modify the Build Configuration**  
 - Open **`build.spec`**  
 - Change the installer’s name by modifying:  
-  ```json
+  ```
   name="rpa-mod-installer"
   ```
 ### **4. Build the Installer**  
